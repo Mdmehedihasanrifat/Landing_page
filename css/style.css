@@ -1,0 +1,48 @@
+body{
+
+    background: url("../img/everton-vila-AsahNlC0VhQ-unsplash.jpg") no-repeat center center/cover;
+}
+hr{
+
+   background-color: white;
+
+}
+.content{
+
+    padding-top: 25%;
+    text-align:center;
+    font-family: 'Meie Script', cursive;
+    color: white !important;
+
+}
+
+.nav-link,.navbar-brand,.text-center{
+
+
+    color: white !important;
+}
+
+.bg-dark{
+opacity: .8;
+}
+.navbar-brand img{
+
+    width: 50px;
+    height: 50px;
+
+
+}
+
+#item{
+
+
+    margin-left: 65%;
+    list-style: none;
+
+}
+#item li{
+    margin-top: 12px;
+    display:inline-block;
+    align-items: center;
+    color:white;
+}
